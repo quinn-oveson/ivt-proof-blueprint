@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.5)  12 JUN 2025 11:14
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.5)  12 JUN 2025 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -926,23 +926,53 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [1
 
-] (./content.tex)
-(C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.aux)
+] (./content.tex
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00107pt on input line 17.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 17.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 17.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 17.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 17.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 17.
+
+
+LaTeX Warning: Reference `def:immersion' on page 1 undefined on input line 24.
+
+
+LaTeX Warning: Reference `thm:open_ample' on page 1 undefined on input line 31.
+
+
+
+LaTeX Warning: Reference `lem:open_ample_immersion' on page 1 undefined on inpu
+t line 31.
+
+)
+
+[1] (C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.aux)
  ***********
 LaTeX2e <2025-06-01>
 L3 programming layer <2025-05-26>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `print.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: B332D1289091D2E3005F1DECC51405CA;100.
  ) 
 Here is how much of TeX's memory you used:
- 16646 strings out of 468533
- 304602 string characters out of 5451482
- 896630 words of memory out of 5000000
- 44832 multiletter control sequences out of 15000+600000
- 630367 words of font info for 67 fonts, out of 8000000 for 9000
+ 16703 strings out of 468533
+ 306315 string characters out of 5451482
+ 897630 words of memory out of 5000000
+ 44873 multiletter control sequences out of 15000+600000
+ 632156 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  90i,6n,107p,542b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print
-.pdf (1 page).
+.pdf (2 pages).

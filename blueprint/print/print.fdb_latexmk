@@ -1,12 +1,14 @@
 # Fdb version 4
-["pdflatex"] 1749748446.28953 "print.tex" "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.pdf" "print" 1749748449.74253 0
-  "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.aux" 1749748448 128 852fc3e86949e4a73cd552c13992dc37 "pdflatex"
-  "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.out" 1749748448 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["pdflatex"] 1749759251.73788 "print.tex" "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.pdf" "print" 1749759255.84873 0
+  "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.aux" 1749759254 382 8309f21666dc76c7d0e31c5d136cabdf "pdflatex"
+  "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.out" 1749759254 100 b332d1289091d2e3005f1decc51405ca "pdflatex"
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158670 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1749166932 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1749156498 916 f87d7c45f9c908e672703b83b72241a3 ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1749156498 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1749156498 928 2dc8d444221b7a635bb58038579b861a ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1749156498 908 2921f8a10601f252058503cc6570e581 ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1749156498 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1749156498 940 228d6584342e91276bf566bcf9716b83 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1749157387 1524 4414a8315f39513458b80dfc63bff03a ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1749157387 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -81,10 +83,10 @@
   "c:/texlive/2025/texmf-dist/web2c/texmf.cnf" 1749156342 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "c:/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1749167090 5890108 9fe61e3d9965bab3584e80916f40d468 ""
   "c:/texlive/2025/texmf.cnf" 1749166961 713 e69b156964470283e0530f5060668171 ""
-  "content.tex" 1749158005 373 2d7eb2a8602a3a9e624e73a23f9c60e9 ""
+  "content.tex" 1749759234 972 c9c54f45122ac9b7df9cf509d91c991b ""
   "macros/common.tex" 1749156822 837 60fafcc3aa944a5e60030581a943ef6b ""
   "macros/print.tex" 1749156822 1129 87627b2ec24fef68edc71c13f43f7bab ""
-  "print.tex" 1749660572 1193 0ddf25814b33c7b5be493ed5f6ae9ea6 ""
+  "print.tex" 1749758965 1193 0ddf25814b33c7b5be493ed5f6ae9ea6 ""
   (generated)
   "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.aux"
   "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.log"

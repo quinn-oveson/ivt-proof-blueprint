@@ -183,6 +183,12 @@ INPUT ./content.tex
 INPUT ./content.tex
 INPUT ./content.tex
 INPUT content.tex
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.aux
 INPUT C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.out
 INPUT C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.out
