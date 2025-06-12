@@ -1,7 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1749748446.28953 "print.tex" "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.pdf" "print" 1749748449.74253 0
-  "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.aux" 1749748448 128 852fc3e86949e4a73cd552c13992dc37 "pdflatex"
-  "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.out" 1749748448 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["pdflatex"] 1749660579.18918 "c:/Users/carte/lean/ivt-proof-blueprint/blueprint/src/print.tex" "print.pdf" "print" 1749660582.55659 0
+  "c:/Users/carte/lean/ivt-proof-blueprint/blueprint/src/print.tex" 1749660572 1193 0ddf25814b33c7b5be493ed5f6ae9ea6 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1749158670 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1749166932 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1749156498 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -84,10 +83,12 @@
   "content.tex" 1749158005 373 2d7eb2a8602a3a9e624e73a23f9c60e9 ""
   "macros/common.tex" 1749156822 837 60fafcc3aa944a5e60030581a943ef6b ""
   "macros/print.tex" 1749156822 1129 87627b2ec24fef68edc71c13f43f7bab ""
+  "print.aux" 1749660581 128 852fc3e86949e4a73cd552c13992dc37 "pdflatex"
+  "print.out" 1749660580 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "print.tex" 1749660572 1193 0ddf25814b33c7b5be493ed5f6ae9ea6 ""
   (generated)
-  "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.aux"
-  "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.log"
-  "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.out"
-  "C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print.pdf"
+  "print.aux"
+  "print.log"
+  "print.out"
+  "print.pdf"
   (rewritten before read)
