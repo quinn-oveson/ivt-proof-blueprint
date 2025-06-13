@@ -10,12 +10,19 @@
 
 \section{Definitions}
 
-\begin{theorem}[Sequence]
-  \label{thm:sequence}
-  \lean{sequence}
-  \leanok
-  A sequence is a function $s : ℕ → X$ for some set $X$.
-\end{theorem}
+\begin{definition}[Sequence]
+  \label{def:sequence}
+  A sequence is a function $s : ℕ → $ for some set $X$.
+\end{definition}
+
+\begin{definition}[Convergence]
+  \label{def:convergence}
+  \lean{convergesTo converges}
+
+  A sequence $s : ℕ → X$ converges to $x ∈ X$ if for every neighbourhood $U$ of $x$ there exists
+  $N ∈ ℕ$ such that for all $n ≥ N$, $s(n) ∈ U$.
+\end{definition}
+
 
 \begin{theorem}[Smale 1958]
   \label{thm:sphere_eversion}
