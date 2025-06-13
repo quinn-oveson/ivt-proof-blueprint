@@ -17,14 +17,27 @@
 
 \begin{definition}[Convergence]
   \label{def:convergence}
-  \lean{convergesTo converges}
+  \lean{convergesTo, converges}
+  \leanok
 
-  A sequence $\{a_n\}$ converges to $L ∈ \mathbb{R}$ if for for all $\varepsilon > 0$ there exists
+  A sequence $\{a_n\}$ converges to $L ∈ \mathbb{R}$ if for all $\varepsilon > 0$ there exists
   $N ∈ ℕ$ such that for all $n ≥ N$, $|a_n - L| < \varepsilon$.
   We say $\{a_n\}$ converges if there exists $L ∈ \mathbb{R}$ such that $\{a_n\}$ converges to $L$.
 
 \end{definition}
 
+
+\section{Theorems}
+
+
+\begin{theorem}[Limit Laws]
+  \label{thm:limit_laws}
+
+  Let $C \in \mathbb{R}$. Suppose $\{a_n\}$ converges to $L$ and $\{b_n\}$ converges to $K$. Then \\ \\
+  (i) $\{C a_n\}$ converges to $C L$ \\
+  (ii) $\{a_n + b_n\}$ converges to $L + K$ 
+
+\end{theorem}
 
 \begin{theorem}[Smale 1958]
   \label{thm:sphere_eversion}
