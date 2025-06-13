@@ -12,15 +12,17 @@
 
 \begin{definition}[Sequence]
   \label{def:sequence}
-  A sequence is a function $s : ℕ → $ for some set $X$.
+  A sequence, denoted $a$ or $\{a_n\}$, is a function $a : ℕ → \mathbb{R}$.
 \end{definition}
 
 \begin{definition}[Convergence]
   \label{def:convergence}
   \lean{convergesTo converges}
 
-  A sequence $s : ℕ → X$ converges to $x ∈ X$ if for every neighbourhood $U$ of $x$ there exists
-  $N ∈ ℕ$ such that for all $n ≥ N$, $s(n) ∈ U$.
+  A sequence $\{a_n\}$ converges to $L ∈ \mathbb{R}$ if for for all $\varepsilon > 0$ there exists
+  $N ∈ ℕ$ such that for all $n ≥ N$, $|a_n - L| < \varepsilon$.
+  We say $\{a_n\}$ converges if there exists $L ∈ \mathbb{R}$ such that $\{a_n\}$ converges to $L$.
+
 \end{definition}
 
 

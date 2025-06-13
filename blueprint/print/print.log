@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.5)  12 JUN 2025 18:52
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.5)  12 JUN 2025 19:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -941,15 +941,15 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 15.
 
 
-LaTeX Warning: Reference `def:immersion' on page 1 undefined on input line 31.
+LaTeX Warning: Reference `def:immersion' on page 1 undefined on input line 33.
 
 
-LaTeX Warning: Reference `thm:open_ample' on page 1 undefined on input line 38.
+LaTeX Warning: Reference `thm:open_ample' on page 1 undefined on input line 40.
 
 
 
 LaTeX Warning: Reference `lem:open_ample_immersion' on page 1 undefined on inpu
-t line 38.
+t line 40.
 
 )
 
@@ -968,11 +968,11 @@ Package rerunfilecheck Info: File `print.out' has not changed.
 Here is how much of TeX's memory you used:
  16704 strings out of 468533
  306332 string characters out of 5451482
- 898630 words of memory out of 5000000
+ 899630 words of memory out of 5000000
  44874 multiletter control sequences out of 15000+600000
  632156 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 90i,6n,107p,542b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,6n,107p,542b,425s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on C:/Users/carte/lean/ivt-proof-blueprint/blueprint/print/print
 .pdf (2 pages).

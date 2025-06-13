@@ -76,7 +76,7 @@
       </span>
       <span class="definition_thmlabel">2</span><span class="definition_thmtitle">Convergence</span></div>
     <div class="thm_thmcontent">
-<p>A sequence \(s : ℕ → X\) converges to \(x ∈ X\) if for every neighbourhood \(U\) of \(x\) there exists \(N ∈ ℕ\) such that for all \(n ≥ N\), \(s(n) ∈ U\). </p>
+<p>A sequence \(\{ a_n\} \) converges to \(L ∈ \mathbb {R}\) if for for all \(\varepsilon {\gt} 0\) there exists \(N ∈ ℕ\) such that for all \(n ≥ N\), \(|a_n - L| {\lt} \varepsilon \). We say \(\{ a_n\} \) converges if there exists \(L ∈ \mathbb {R}\) such that \(\{ a_n\} \) converges to \(L\). </p>
 </div>
 
     <a class="latex_link" href="index.html#def:convergence">LaTeX</a>
@@ -106,7 +106,7 @@
       Definition
       </span>
       <span class="definition_thmlabel">1</span><span class="definition_thmtitle">Sequence</span></div>
-    <div class="thm_thmcontent"><p>  A sequence is a function \(s : ℕ → \) for some set \(X\). </p>
+    <div class="thm_thmcontent"><p>  A sequence, denoted \(a\) or \(\{ a_n\} \), is a function \(a : ℕ → \mathbb {R}\). </p>
 </div>
 
     <a class="latex_link" href="index.html#def:sequence">LaTeX</a>
@@ -170,7 +170,7 @@ graphContainer.graphviz({useWorker: true})
     .width(width)
     .height(height)
     .fit(true)
-    .renderDot(`strict digraph "" {	graph [bgcolor=transparent];	node [label="\N",		penwidth=1.8	];	edge [arrowhead=vee];	"def:sequence"	[color=blue,		fillcolor="#A3D6FF",		label=sequence,		shape=box,		style=filled];	"thm:sphere_eversion"	[color=green,		fillcolor="#1CAC78",		label=sphere_eversion,		shape=ellipse,		style=filled];	"def:convergence"	[color=blue,		fillcolor="#A3D6FF",		label=convergence,		shape=box,		style=filled];}`)
+    .renderDot(`strict digraph "" {	graph [bgcolor=transparent];	node [label="\N",		penwidth=1.8	];	edge [arrowhead=vee];	"def:sequence"	[color=blue,		fillcolor="#A3D6FF",		label=sequence,		shape=box,		style=filled];	"def:convergence"	[color=blue,		fillcolor="#A3D6FF",		label=convergence,		shape=box,		style=filled];	"thm:sphere_eversion"	[color=green,		fillcolor="#1CAC78",		label=sphere_eversion,		shape=ellipse,		style=filled];}`)
     .on("end", interactive);
 
 latexLabelEscaper = function(label) {
